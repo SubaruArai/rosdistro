@@ -1,6 +1,7 @@
 catkin-pkg
 PyGitHub
 pytest
+pytest-xdist
 PyYAML
 ros-buildfarm
 rosdep
